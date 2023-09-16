@@ -17,6 +17,11 @@
     background-color: azure;
     color: blue;
 }
+.name{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
 .Aslaksen{
     color:brown;
     font-family:'Times New Roman', Times, serif;
@@ -32,11 +37,7 @@
     font-family:'Times New Roman', Times, serif;
     font-size:large;
 }
-.name{
-    color:black;
-    font-family:'Times New Roman', Times, serif;
-    font-size:20px;
-}
+
 table,td,th{
     margin: 1px;
     text-align: center ;
