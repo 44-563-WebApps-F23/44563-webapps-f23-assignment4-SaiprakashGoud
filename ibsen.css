@@ -17,23 +17,23 @@
     background-color: azure;
     color: blue;
 }
-.name{
-    color:black;
-    font-family:'Times New Roman', Times, serif;
-    font-size:18px;
-}
 .Aslaksen{
     color:brown;
     font-family:'Times New Roman', Times, serif;
     font-size: large;
 }
 .DrStockmann{
-    color: green;
+    color: orange;
     font-family:'Times New Roman', Times, serif;
     font-size:large;
 }
 .Hovstad{
-    color: yellow;
+    color: red;
     font-family:'Times New Roman', Times, serif;
     font-size:large;
+}
+.name{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
 }
