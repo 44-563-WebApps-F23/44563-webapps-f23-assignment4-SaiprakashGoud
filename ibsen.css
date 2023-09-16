@@ -1,0 +1,39 @@
+.speech{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:15px;
+    text-decoration: solid;
+    text-indent: 14px;
+}
+.direction{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-decoration: solid;
+    text-decoration-color: aquamarine;
+    text-indent: 20px;
+}
+.direction:hover{
+    background-color: azure;
+    color: blue;
+}
+.name{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+}
+.Aslaksen{
+    color:brown;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+}
+.DrStockmann{
+    color: green;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+}
+.Hovstad{
+    color: yellow;
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+}
