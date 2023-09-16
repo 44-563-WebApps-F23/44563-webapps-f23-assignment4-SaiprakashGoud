@@ -37,3 +37,16 @@
     font-family:'Times New Roman', Times, serif;
     font-size:20px;
 }
+table,td,th{
+    margin: 1px;
+    text-align: center ;
+    padding:10px;
+    border: solid 2px black;
+    border-collapse: collapse;
+}
+tr:nth-child(even){
+    background-color: pink;
+}
+tr:nth-child(odd){
+    background-color: green;
+}
