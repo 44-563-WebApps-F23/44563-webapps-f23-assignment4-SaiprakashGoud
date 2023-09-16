@@ -22,17 +22,17 @@
     font-family:'Times New Roman', Times, serif;
     font-size:20px;
 }
-.Aslaksen{
+.aslaksen{
     color:brown;
     font-family:'Times New Roman', Times, serif;
     font-size: large;
 }
-.DrStockmann{
+.drstockmann{
     color: orange;
     font-family:'Times New Roman', Times, serif;
     font-size:large;
 }
-.Hovstad{
+.hovstad{
     color: red;
     font-family:'Times New Roman', Times, serif;
     font-size:large;
@@ -50,4 +50,24 @@ tr:nth-child(even){
 }
 tr:nth-child(odd){
     background-color: green;
+}
+.aslaksen:hover{
+    text-shadow: 2px 3px 4px darkorange;
+    background-color: azure;
+    color:lightskyblue;
+}
+.drstockmann:hover{
+    text-shadow: 2px 3px 4px darkorange;
+    background-color: azure;
+    color:lightskyblue;
+}
+.hovstad:hover{
+    text-shadow: 2px 3px 4px darkorange;
+    background-color: azure;
+    color:lightskyblue;
+}  
+h6:hover {
+    text-shadow: 20px 20px 30px gray;
+    border-bottom: black solid;
+    font-size: 20px;
 }
