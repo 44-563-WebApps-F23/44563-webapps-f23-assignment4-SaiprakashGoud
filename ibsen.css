@@ -42,15 +42,19 @@ table,td,th{
     margin: 1px;
     text-align: center ;
     padding:10px;
-    border: solid 2px black;
+    border: solid 1px;
+    outline: solid 2px blueviolet;
     border-collapse: collapse;
 }
 tr:nth-child(even){
     background-color: pink;
+    color:darkred;
 }
 tr:nth-child(odd){
     background-color: green;
+    color:white;
 }
+
 .aslaksen:hover{
     text-shadow: 2px 3px 4px darkorange;
     background-color: azure;
