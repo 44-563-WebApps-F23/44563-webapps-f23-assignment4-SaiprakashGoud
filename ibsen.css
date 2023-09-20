@@ -75,3 +75,27 @@ h6:hover {
     border-bottom: black solid;
     font-size: 20px;
 }
+navbar-horizontal {
+  
+    list-style-type: none;
+    margin: 1;
+    padding: 1;
+    background-origin: padding-box;
+    color: orange;
+}
+ul.navbar-horizontal li {
+    float:left; 
+    color:lightpink;
+    background-color:blue;
+    
+}
+.navbar-horizontal a {
+    display:block;
+    padding: 18px;
+    color: white;
+}
+
+.navbar-horizontal a:hover {  
+    background-color:violet;
+    color:red;
+}
